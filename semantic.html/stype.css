@@ -1,0 +1,15 @@
+.Parent{
+    display: grid;
+}
+
+header {
+    padding: 2rem;
+    grid-column: 1/4;
+}
+.left-site{
+    grid-column: 1/2;
+}
+
+main {
+    grid-column: 2/3;
+}
